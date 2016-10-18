@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015-2016 Aurelitec
+     http://www.aurelitec.com
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+    </style>
+
+    <!-- Color picker dialog activity theme -->
+    <style name="ColorPickerTheme" parent="android:Theme.Holo.Light.Dialog.NoActionBar">
+    </style>
+
+    <!-- Subtle button style -->
+    <style name="ColorButton" parent="@android:style/Widget.Holo.Button">
+        <item name="android:background">@drawable/color_button</item>
+        <item name="android:minHeight">@dimen/color_button_min_height</item>
+        <item name="android:minWidth">@dimen/color_button_min_width</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/color_button_margin_vertical</item>
+    </style>
+
+    <!-- Subtle button style -->
+    <style name="BorderlessButton" parent="@android:style/Widget.Holo.Button.Borderless">
+    </style>
+
+    <!-- Subtle button style -->
+    <style name="ToolbarButton" parent="BorderlessButton">
+        <item name="android:textSize">@dimen/toolbar_button_font_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:minWidth">@dimen/toolbar_button_min_width</item>
+        <item name="android:minHeight">@dimen/toolbar_button_min_height</item>
+        <item name="android:gravity">center</item>
+        <!--<item name="android:shadowColor">@color/safe_text_shadow_color</item>-->
+        <!--<item name="android:shadowDx">@dimen/safe_text_shadow_dx</item>-->
+        <!--<item name="android:shadowDy">@dimen/safe_text_shadow_dy</item>-->
+        <!--<item name="android:shadowRadius">@dimen/safe_text_shadow_radius</item>-->
+    </style>
+
+    <!-- Platform native text appearance -->
+    <style name="NativeText" parent="@android:style/TextAppearance.Holo">
+    </style>
+
+    <!-- Background safe text style -->
+    <style name="SafeText" parent="NativeText">
+        <!--<item name="android:shadowColor">@color/safe_text_shadow_color</item>-->
+        <!--<item name="android:shadowDx">@dimen/safe_text_shadow_dx</item>-->
+        <!--<item name="android:shadowDy">@dimen/safe_text_shadow_dy</item>-->
+        <!--<item name="android:shadowRadius">@dimen/safe_text_shadow_radius</item>-->
+        <item name="android:textColor">@color/note_text</item>
+    </style>
+
+</resources>

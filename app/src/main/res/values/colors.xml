@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015-2016 Aurelitec
+     http://www.aurelitec.com
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <color name="color_accent">#000000</color>
+
+    <!-- Buttons -->
+    <color name="color_button_background">#FFFFFFFF</color>
+    <color name="color_button_focused_background">#DDFFFFFF</color>
+    <color name="color_button_pressed_background">#AAFFFFFF</color>
+    <color name="color_button_border">#DDDDDD</color>
+
+    <!-- Text views -->
+    <color name="note_text">#FFFFFFFF</color>
+
+    <!-- Standard named colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="magenta">#FFFF00FF</color>
+</resources>

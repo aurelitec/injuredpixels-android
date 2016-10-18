@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015-2016 Aurelitec
+     http://www.aurelitec.com
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Color buttons -->
+    <dimen name="color_button_border">2dp</dimen>
+    <dimen name="color_button_corner">2dp</dimen>
+    <dimen name="color_button_padding_horizontal">8dp</dimen>
+    <dimen name="color_button_padding_vertical">0dp</dimen>
+    <dimen name="color_button_margin_vertical">8dp</dimen>
+    <dimen name="color_button_min_height">32dp</dimen>
+    <dimen name="color_button_min_width">88dp</dimen>
+
+    <!-- Toolbar buttons -->
+    <dimen name="toolbar_button_font_size">24sp</dimen>
+    <dimen name="toolbar_button_min_width">56dp</dimen>
+    <dimen name="toolbar_button_min_height">56dp</dimen>
+
+    <!-- Tip -->
+    <dimen name="tip_icon_font_size">29sp</dimen>
+    <dimen name="tip_icon_margin">8dp</dimen>
+</resources>
