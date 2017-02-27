@@ -1,10 +1,5 @@
 # InjuredPixels (for Android)
 
-<a href="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" target="_blank">
-  <img align="right" src="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" width="300" 
-  alt="InjuredPixels for Android Screenshot"/>
-</a>
-
 Use InjuredPixels to test the screen of a smartphone or tablet in the store, before buying, or during the warranty period, as you may get a replacement according to the manufacturer's dead pixel policy. InjuredPixels fills the entire screen with a primary or custom color, helping you to easily spot pixels that do not match the selected color. 
 
 The app is very easy to use: 
@@ -24,9 +19,16 @@ InjuredPixels if free and open source, doesn't show ads, and doesn't require Int
 
 **[Download APK from Github Releases](https://github.com/aurelitec/injuredpixels-android/releases/latest)**
 
+## Screenshots
 
-
-
+<a href="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" target="_blank">
+  <img src="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" width="300" 
+  alt="InjuredPixels for Android Screenshot"/>
+</a>
+<a href="https://cloud.githubusercontent.com/assets/19592808/23366924/322b6d66-fd11-11e6-875a-4e9ee954c1de.png" target="_blank">
+  <img src="https://cloud.githubusercontent.com/assets/19592808/23366924/322b6d66-fd11-11e6-875a-4e9ee954c1de.png" width="300" 
+  alt="InjuredPixels for Android Screenshot"/>
+</a>
 
 ## Source Code
 
