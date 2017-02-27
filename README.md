@@ -25,8 +25,8 @@ InjuredPixels if free and open source, doesn't show ads, and doesn't require Int
   <img src="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" width="300" 
   alt="InjuredPixels for Android Screenshot"/>
 </a>
-<a href="https://cloud.githubusercontent.com/assets/19592808/23366924/322b6d66-fd11-11e6-875a-4e9ee954c1de.png" target="_blank">
-  <img src="https://cloud.githubusercontent.com/assets/19592808/23366924/322b6d66-fd11-11e6-875a-4e9ee954c1de.png" width="300" 
+<a href="https://cloud.githubusercontent.com/assets/19592808/23367648/a9ce34e6-fd13-11e6-8d60-4e601a742f2a.png" target="_blank">
+  <img src="https://cloud.githubusercontent.com/assets/19592808/23367648/a9ce34e6-fd13-11e6-8d60-4e601a742f2a.png" width="300" 
   alt="InjuredPixels for Android Screenshot"/>
 </a>
 
