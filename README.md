@@ -13,6 +13,9 @@ Note: When going full (empty) screen, touching, tapping or swiping does nothing,
 
 InjuredPixels if free and open source, doesn't show ads, and doesn't require Internet or extra permissions.
 
+> "Beautifully simple." (Sanjay Lakra on Google Play)
+
+
 <a href='https://play.google.com/store/apps/details?id=com.aurelitec.injuredpixels'>
   <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="240"/>
 </a>
@@ -36,7 +39,7 @@ InjuredPixels for Android is written in Java using Android Studio.
 
 ## Contributions
 
-Contributions are welcome! For feature requests and bug reports please [submit an issue](https://github.com/aurelitec/injuredpixels-android/issues).
+Contributions are welcome: code, text, documentation, design, graphics, suggestions. Please fork this repository and contribute back using [pull requests](https://github.com/aurelitec/injuredpixels-android/pulls), [submit an issue](https://github.com/aurelitec/injuredpixels-android/issues), or [send an email](https://www.aurelitec.com/support/).
 
 ## Sponsor
 
