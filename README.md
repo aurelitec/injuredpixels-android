@@ -17,7 +17,7 @@ InjuredPixels if free and open source, doesn't show ads, and doesn't require Int
 
 
 <a href='https://play.google.com/store/apps/details?id=com.aurelitec.injuredpixels'>
-  <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="240"/>
+  <img alt='Get it on Google Play' src='assets/images/get-it-on-google-play-button.png' width="240"/>
 </a>
 
 **[Download APK from Github Releases](https://github.com/aurelitec/injuredpixels-android/releases/latest)**
@@ -25,11 +25,11 @@ InjuredPixels if free and open source, doesn't show ads, and doesn't require Int
 ## Screenshots
 
 <a href="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" target="_blank">
-  <img src="https://cloud.githubusercontent.com/assets/19592808/23361631/4d7ddcb4-fcfa-11e6-9032-c3493415022f.png" width="300" 
+  <img src="assets/screenshots/injuredpixels-android-screenshot-black-menu-nexus5-frame.png" width="300" 
   alt="InjuredPixels for Android Screenshot"/>
 </a>
 <a href="https://cloud.githubusercontent.com/assets/19592808/23367648/a9ce34e6-fd13-11e6-8d60-4e601a742f2a.png" target="_blank">
-  <img src="https://cloud.githubusercontent.com/assets/19592808/23367648/a9ce34e6-fd13-11e6-8d60-4e601a742f2a.png" width="300" 
+  <img src="assets/screenshots/injuredpixels-android-screenshot-red-full-screen-nexus5x-framed.png" width="300" 
   alt="InjuredPixels for Android Screenshot"/>
 </a>
 
