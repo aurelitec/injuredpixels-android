@@ -41,9 +41,9 @@ InjuredPixels for Android is written in Java using Android Studio.
 
 Contributions are welcome: code, text, documentation, design, graphics, suggestions. Please fork this repository and contribute back using [pull requests](https://github.com/aurelitec/injuredpixels-android/pulls), [submit an issue](https://github.com/aurelitec/injuredpixels-android/issues), or [send an email](https://www.aurelitec.com/support/).
 
-## Sponsor
+## Author
 
-InjuredPixels for Android (and all Aurelitec free applications) are supported by [East-Tec](http://www.east-tec.com), the home of [east-tec Eraser](http://www.east-tec.com/eraser/), the privacy tool that quickly and securely covers your online and PC tracks.
+InjuredPixels for Android was created in 2016 by [Horațiu Tănescu](https://horatiu.me), cofounder of [East-Tec](https://www.east-tec.com) and original creator of [east-tec Eraser](https://www.east-tec.com/eraser/), the privacy solution that quickly and securely covers your online and PC tracks.
 
 ## License
 
